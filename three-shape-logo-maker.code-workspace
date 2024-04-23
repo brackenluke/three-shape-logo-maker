@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "three-shape-logo-maker",
+			"path": "."
+		},
+		{
+			"name": "examples",
+			"path": "../../svg-creator/examples"
+		},
+		{
+			"name": "node_modules",
+			"path": "../../svg-creator/node_modules"
+		},
+		{
+			"name": "lib",
+			"path": "../../svg-creator/lib"
+		}
+	],
+	"settings": {}
+}
